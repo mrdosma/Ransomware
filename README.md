@@ -50,9 +50,9 @@ Tested on devices ```Android 11```
 <img src="https://github.com/majidtdeni666/RANSOMWARE/blob/master/src/outputlog.jpg"></img>
 
 ### Support Me
-YouTube [@kenichiro-YT](https://youtube.com/@dostonbek.turgunbayev) <br>
+YouTube [@dostonbek.turgunbayev](https://youtube.com/@dostonbek.turgunbayev) <br>
 Instagram [Dostonbek Turgunbayev](https://instagram.com/dostonbek.turgunbayev) <br>
-Telegram [ownclouds] (https://t.me/ownclouds) 
+Telegram [ownclouds](https://t.me/ownclouds) 
 
 
 ### Credit's
